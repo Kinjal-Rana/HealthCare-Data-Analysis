@@ -42,6 +42,11 @@ The project enables trend analysis by hospital and by year to support data-drive
 - Year-over-year clinical trends
 - Hospital-level performance comparison
 
+## How to Use the Dashboard
+- Use hospital and year filters to compare clinical performance
+- Navigate between Hospital-Level and Year-Wise trend pages
+- Hover over charts to view detailed metric values
+
 ## Report Screenshots (Power BI)
 
 ### Hospital-Level Analysis Dashboard
@@ -66,3 +71,7 @@ Delivered a production-ready Power BI dashboard capable of handling large-scale 
 - Power BI Reporting
 - Data Quality Validation
 - Analytical Storytelling
+
+## Data Ethics & Disclaimer
+This project uses a synthetic or anonymized dataset for educational and analytical purposes only.  
+It does not represent real patient data and should not be used for clinical or medical decision-making.
